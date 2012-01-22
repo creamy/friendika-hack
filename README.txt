@@ -6,6 +6,6 @@ Example:
 https://www.uzimac.com/display/waitman/82
 
 Read more: 
-http://www.waitman/friendica-hack-image-gallery.html
+http://www.waitman.net/friendica-hack-image-gallery.html
 
 
